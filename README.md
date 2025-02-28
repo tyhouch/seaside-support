@@ -23,6 +23,7 @@ You are tasked with building a FastAPI application for Seaside Bistro, a local s
    * For General Questions: Use the provided restaurant documentation to generate a helpful response
    * For Catering/Events: Route to a human (simply output a message indicating this decision)
    * For Spam/Irrelevant: Mark as such with no response needed
-   * For Reservation requests: Extract reservation details and use the reservation endpoint to book it
+   * For Reservation requests: Extract reservation details and use the reservation endpoint to book it (HINT: TOOL USE/FUNCTION CALLS)
+
 
 4. Store both message processing history and reservation data in a simple database
